@@ -8,11 +8,11 @@ end
 
 
 
-def loop_message_n_times(string, limit)
+def loop_message_n_times(message, limit)
   counter = 0 
   while count < limit do 
-    puts string 
-    counter += 1  
+    puts message 
+    count += 1  
   end
 end  
 
